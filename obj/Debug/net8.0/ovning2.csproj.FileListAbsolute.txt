@@ -1,0 +1,14 @@
+C:\Users\Smiljana\source\repos\ovning2\ovning2\bin\Debug\net8.0\ovning2.exe
+C:\Users\Smiljana\source\repos\ovning2\ovning2\bin\Debug\net8.0\ovning2.deps.json
+C:\Users\Smiljana\source\repos\ovning2\ovning2\bin\Debug\net8.0\ovning2.runtimeconfig.json
+C:\Users\Smiljana\source\repos\ovning2\ovning2\bin\Debug\net8.0\ovning2.dll
+C:\Users\Smiljana\source\repos\ovning2\ovning2\bin\Debug\net8.0\ovning2.pdb
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.AssemblyInfoInputs.cache
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.AssemblyInfo.cs
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.csproj.CoreCompileInputs.cache
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.dll
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\refint\ovning2.dll
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.pdb
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ovning2.genruntimeconfig.cache
+C:\Users\Smiljana\source\repos\ovning2\ovning2\obj\Debug\net8.0\ref\ovning2.dll
